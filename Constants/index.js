@@ -18,57 +18,65 @@ const navLinks = [
 ];
 
 const cocktailLists = [
- {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+  {
+    name: "Chapel Hill Shiraz",
+    country: "AU",
+    detail: "750 ml | 13.5% ABV",
+    price: "₹800",
+    description: "A rich and full-bodied Shiraz with notes of dark berries, pepper, and oak. Perfect for special dinners.",
+  },
+  {
+    name: "Caten Malbee",
+    country: "AU",
+    detail: "750 ml | 14% ABV",
+    price: "₹4000",
+    description: "A smooth Malbec with vibrant flavors of plum, blackberry, and subtle hints of chocolate and vanilla.",
+  },
+  {
+    name: "Rhino Pale Ale",
+    country: "CA",
+    detail: "500 ml | 5.4% ABV",
+    price: "₹1600",
+    description: "A crisp and refreshing pale ale with citrus undertones and a balanced bitter finish, ideal for summer afternoons.",
+  },
+  {
+    name: "Irish Guinness",
+    country: "IE",
+    detail: "600 ml | 4.2% ABV",
+    price: "₹2300",
+    description: "Classic Irish stout featuring smooth roasted flavors of coffee, chocolate, and malt. A timeless favorite worldwide.",
+  },
 ];
 
 const mockTailLists = [
- {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
- },
- {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
- },
+  {
+    name: "Tropical Bloom",
+    country: "US",
+    detail: "350 ml | Non-Alcoholic",
+    price: "₹800",
+    description: "A vibrant mix of pineapple, coconut water, and fresh lime that captures the essence of a tropical island.",
+  },
+  {
+    name: "Passionfruit Mint",
+    country: "US",
+    detail: "350 ml | Non-Alcoholic",
+    price: "₹4000",
+    description: "Refreshing passionfruit flavor fused with mint leaves, perfect for a revitalizing and zesty experience.",
+  },
+  {
+    name: "Citrus Glow",
+    country: "CA",
+    detail: "400 ml | Non-Alcoholic",
+    price: "₹1600",
+    description: "A bright and tangy medley of orange, lemon, and grapefruit juices with a sparkling twist.",
+  },
+  {
+    name: "Lavender Fizz",
+    country: "IE",
+    detail: "400 ml | Non-Alcoholic",
+    price: "₹2300",
+    description: "A delicate blend of lavender syrup, lemon zest, and soda, delivering a floral and soothing aftertaste.",
+  },
 ];
 
 const profileLists = [
