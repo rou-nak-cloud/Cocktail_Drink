@@ -86,7 +86,7 @@ const Hero = () => {
                     <p className='subtitle'>
                         Our cocktails are liquid artistry — blending premium spirits, handpicked flavors, and timeless inspiration to create unforgettable moments in every glass.
                     </p>
-                    <a href="#cocktails">View Coquetel..</a>
+                    <a href="#cocktails"className='underline' >View Coquetel..</a>
                 </div>
             </div>
         </div>
