@@ -12,24 +12,23 @@ Welcome to **Cocktail Heaven**, my very first project experimenting with **GSAP 
 - 🎨 Modern UI design inspired by award-winning cocktail sites
 
 ---
+## 🔗 Live Demo
+
+> **Coming Soon!** (Add your Vercel/Netlify link here)
+
+---
 
 ## 🚀 Technologies Used
 
 - **React.js**
 - **GSAP (GreenSock Animation Platform)**
 - **Tailwind CSS**
-- **Framer Motion** (for modals)
-- **EmailJS** (for contact form)
 
 ---
 
 ## 📸 Screenshots
-
-| Home Section | Cocktail Menu | Scroll Animation |
-| ------------ | ------------- | ---------------- |
-|              |               |                  |
-
-*(Replace these with your actual screenshots in the ****\`\`**** folder)*
+| ![Home](./screenshots/home.png) | ![Art](./screenshots/art.png) | ![cocktail](./screenshots/cocktail.png) |
+| ![Figma](./screenshots/figma.png) |
 
 ---
 
@@ -89,21 +88,11 @@ Welcome to **Cocktail Heaven**, my very first project experimenting with **GSAP 
 
 ---
 
-## 🔗 Live Demo
-
-> **Coming Soon!** (Add your Vercel/Netlify link here)
-
----
-
 ## 💌 Contact
-
 Made with 🍹 and ❤️ by **Rounak Bakshi**\
-📫 github.rounak.19[@gmail.com](mailto\:rounak.your.email@gmail.com)
-
-
+📫 Email: (mailto\:github.rounak.19@gmail.com)
 
 ## 🙌 Acknowledgements
-
 - GSAP Official Docs
 - TailwindCSS
 
