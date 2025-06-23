@@ -14,8 +14,8 @@ Welcome to **Cocktail Heaven**, my very first project experimenting with **GSAP 
 ---
 ## 🔗 Live Demo
 
-> **Coming Soon!** (Add your Vercel/Netlify link here)
-
+> Live Site:
+> https://coquetel-taupe.vercel.app/
 ---
 
 ## 🚀 Technologies Used
