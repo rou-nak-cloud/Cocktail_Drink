@@ -9,6 +9,7 @@ import Hero from "./Components/hero";
 import Cocktails from "./Components/Cocktails";
 import About from "./Components/About";
 import Art from "./Components/Art";
+import Menu from "./Components/Menu";
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
         <Cocktails />
         <About />
         <Art />
+        <Menu />
        </main>
     )
 }
