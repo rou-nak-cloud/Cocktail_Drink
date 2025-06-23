@@ -27,8 +27,9 @@ Welcome to **Cocktail Heaven**, my very first project experimenting with **GSAP 
 ---
 
 ## 📸 Screenshots
-| ![Home](./screenshots/home.png) | ![Art](./screenshots/art.png) | ![cocktail](./screenshots/cocktail.png) |
-| ![Figma](./screenshots/figma.png) |
+| ![Home](/screenshots/home.png) | ![Art](/screenshots/art.png) | ![cocktail](/screenshots/cocktail.png) |
+
+| ![Figma](/screenshots/figma.png) |
 
 ---
 
@@ -90,7 +91,7 @@ Welcome to **Cocktail Heaven**, my very first project experimenting with **GSAP 
 
 ## 💌 Contact
 Made with 🍹 and ❤️ by **Rounak Bakshi**\
-📫 Email: (mailto\:github.rounak.19@gmail.com)
+📫 Email: (github.rounak.19@gmail.com)
 
 ## 🙌 Acknowledgements
 - GSAP Official Docs
